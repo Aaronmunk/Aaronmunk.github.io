@@ -26,6 +26,7 @@ Lab 8 was a favorite because it combined logic, vector usage, and real-world sce
 
 
 **Lab 9 Reflection**
+
 Caesar Cipher Lab 9 was one of my favorite and hardest labs because it introduced me to the concept of encryption. I enjoyed learning how a simple Caesar Cipher works and how to use loops and character manipulation in C++.And also this was one of the labs I personally saw a big upshoot with difficulty, especially in part two where we had to store a secret number file and another to read it. But we completed it with no errors and pushed forward.
 
 
